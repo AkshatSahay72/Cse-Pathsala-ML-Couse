@@ -6,4 +6,7 @@ Day 02:
 Little more python basics (Absent)
 
 Day 03:
-Started Numpy
+Started Numpy and some func
+
+Day 04:
+Numpy practice and new Func

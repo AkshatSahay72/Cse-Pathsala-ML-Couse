@@ -12,4 +12,7 @@ Day 04:
 Numpy practice and new Func
 
 Day 05:
-More numpy
+Completed numpy
+
+Day 06: 
+Started Pandas

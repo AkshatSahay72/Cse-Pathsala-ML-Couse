@@ -16,3 +16,6 @@ Completed numpy
 
 Day 06: 
 Started Pandas
+
+Day 07:
+more pandas

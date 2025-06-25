@@ -25,3 +25,6 @@ Pandas function
 
 Day 09:
 Practice with dataset 
+
+Day 10:
+Pandas function like merge and joins

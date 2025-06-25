@@ -19,3 +19,9 @@ Started Pandas
 
 Day 07:
 more pandas
+
+Day 08:
+Pandas function
+
+Day 09:
+Practice with dataset 

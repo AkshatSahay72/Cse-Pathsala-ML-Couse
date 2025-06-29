@@ -31,3 +31,6 @@ Pandas function like merge and joins
 
 Day 11:
 New pandas Func like groupby and rolling
+
+Day 12: 
+ML theory part no coding today

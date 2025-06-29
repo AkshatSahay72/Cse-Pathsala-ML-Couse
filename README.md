@@ -28,3 +28,6 @@ Practice with dataset
 
 Day 10:
 Pandas function like merge and joins
+
+Day 11:
+New pandas Func like groupby and rolling
